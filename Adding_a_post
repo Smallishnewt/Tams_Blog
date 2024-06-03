@@ -1,0 +1,9 @@
+To add a new post on the blog:
+  1) in the 'posts' folder, duplicate an existing post folder (it should contain a index.qmd and optional image.jpg).
+  2) Customize the next post by changing the folder name and save changes.
+    REMEMBER!!!  R doesn't like spaces, so use '-' or '_'.
+  3) Render website in R. Go to the Build tab (top right screen in R) and select     'Render Website'.
+  4) Update changes in Github Desktop.
+    Its important to add a summary to changes so that its easy to track, then click 'Commit to master'. 
+  5) Once commited, select 'Push origin'. This will save changes made in R studio to your Github and website.
+  
