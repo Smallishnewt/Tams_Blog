@@ -1,0 +1,13 @@
+---
+title: "my new post"
+author: "Tam"
+date: "2024-06-03"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is an example of how to make a post.
+
+```{r}
+1 + 1
+```
